@@ -1,6 +1,6 @@
-<img src="/screenshots/1.png" alt="firstpage" />
+<img src="/public/screenshots/1.png" alt="firstpage" />
 <br/>
-<img src="/screenshots/2.png" alt="secondpage" />
+<img src="/public/screenshots/2.png" alt="secondpage" />
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
